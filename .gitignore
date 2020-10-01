@@ -31,3 +31,6 @@
 *.out
 *.app
 .vscode
+helloword
+nim2
+build/
